@@ -1,0 +1,13 @@
+{
+  "string": "value",
+  "number": 42,
+  "boolean": true,
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "object": {
+    "nested": "data"
+  }
+}
